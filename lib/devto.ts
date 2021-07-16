@@ -6,7 +6,7 @@ import { convertMarkdownToHtml, sanitizeDevToMarkdown } from "./markdown";
 const username = "m_ahmad";
 // const blogURL = 'https://https://my-portfolio-ma-ahmad.vercel.app/blog/'
 // const blogURL = 'http://localhost:3000/blog/'
-const blogURL = "https://dev.to/m_ahmad";
+const blogURL = "https://dev.to/fu4303";
 
 // Get all users articles from Dev.to and filter by ones with a canonical URL to your blog
 export const getAllArticles = async (): Promise<IArticle[]> => {
