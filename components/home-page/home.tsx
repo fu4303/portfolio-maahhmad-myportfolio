@@ -76,7 +76,7 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
           <Box as="h2" fontSize="2xl" fontWeight="400" textAlign="left">
             My name is{" "}
             <Box as="strong" fontWeight="600">
-              Ahmad
+              Alec
             </Box>{" "}
             and I&apos;m a{" "}
             <Box as="span" whiteSpace="nowrap">
@@ -87,7 +87,7 @@ const Home: React.FC<HomeProps> = ({ projects }) => {
             </Box>
             from{" "}
             <Box as="span" whiteSpace="nowrap">
-              Pakistan 🇵🇰
+              Virginia, USA
             </Box>
           </Box>
           <Box as="h2" fontSize="2xl" fontWeight="400" mt={5} textAlign="left">
